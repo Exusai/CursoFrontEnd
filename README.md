@@ -5,10 +5,9 @@ Parte del curso FullStack de LaunchX de Inovacción Virtual
 [Buyer Persona](https://github.com/Exusai/CursoFrontEnd/blob/master/01-Intro/Buyer%20Persona.pdf)\
 [Público Objetivo](https://github.com/Exusai/CursoFrontEnd/blob/master/01-Intro/Target%20Audience.pdf)\
 [Wireframe](https://github.com/Exusai/CursoFrontEnd/blob/master/01-Intro/WireFrame%20Abogabot.pdf)\
-[UI](https://github.com/Exusai/CursoFrontEnd/blob/master/01-Intro/Abogabot%20UI.pdf)
-
+[UI en PDF](https://github.com/Exusai/CursoFrontEnd/blob/master/01-Intro/Abogabot%20UI.pdf)
 <details>
-  <summary>Click para ver UI</summary>
+  <summary>Click Para Ver Algunas Imágenes de la UI Diseñada</summary>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/47704357/156059263-cfe894cd-2e5e-4f43-bd84-3b42888883e9.png">
   </p>
