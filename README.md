@@ -1,4 +1,5 @@
 # CursoFrontEnd
+Parte del curso FullStack de LaunchX de Inovacción Virtual
 ## Semana 1:
 [Requerimientos](https://github.com/Exusai/CursoFrontEnd/blob/master/01-Intro/Requerimientos%20Abogabot.pdf)\
 [Buyer Persona](https://github.com/Exusai/CursoFrontEnd/blob/master/01-Intro/Buyer%20Persona.pdf)\
