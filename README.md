@@ -27,3 +27,19 @@ Parte del curso FullStack de LaunchX de Inovacción Virtual
 </details>
 
 ## Semana 2:
+Práctica de la pasteleria
+Visitarla en: https://hosttest-a4777.web.app
+o en: https://practica.exusai.software/index.html
+
+![image](https://user-images.githubusercontent.com/47704357/156455692-6d371bf4-08b4-40d5-8a9b-2037e7af0ed4.png)
+![image](https://user-images.githubusercontent.com/47704357/156455769-4ac1742b-b54e-410a-91ed-8e70f2f102c9.png)
+![image](https://user-images.githubusercontent.com/47704357/156455997-d28c926c-d6df-4600-9209-55acf00548b1.png)
+![image](https://user-images.githubusercontent.com/47704357/156456023-4ee88d9a-31fa-40a8-97f5-c7db02aca98b.png)
+![image](https://user-images.githubusercontent.com/47704357/156456205-d8900280-4632-4bba-a821-2634139f24d8.png)
+![image](https://user-images.githubusercontent.com/47704357/156456337-00dc4cd7-e073-4978-8b9c-3f9460cb00bf.png)
+![image](https://user-images.githubusercontent.com/47704357/156456381-d745fadb-f735-4b5d-81ba-27e07ca6f7ac.png)
+
+
+
+
+
