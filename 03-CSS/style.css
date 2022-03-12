@@ -4,9 +4,12 @@
     padding: 0px;
 }
 html {
-    font-family: "Source Sans 3", sans-serif;
     font-size: 62.5%;
     color: var(--opaque-blue);
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
 }
 :root {
     --blue-king:  #2c4cca;
@@ -23,7 +26,6 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: fixed;
     width: 100%;
     min-width: 320px;
     height: 70px;
@@ -85,11 +87,11 @@ nav .nav-right .nav-button-container {
     height: 650px;
     display: flex;
 }
-    /* Section 1 - Left */
+/* Section 1 - Left */
 .title-section .title-container {
     width: 50%;
     height: 580px;
-    padding: 170px 100px 150px 90px;
+    padding: 100px 100px 150px 90px;
 }
 .title-section .title-container h1 {
     font-size: 4.2rem;
@@ -331,8 +333,7 @@ nav .nav-right .nav-button-container {
     display: flex;
     justify-content: space-between;
 }
-
-    /* Section 5 - Contact left */
+ /* Section 5 - Contact left */
 .contact-container {
     width: 50%;
     height: 650px;
