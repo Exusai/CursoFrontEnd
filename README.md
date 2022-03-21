@@ -65,6 +65,10 @@ Práctica de CSS\
 Código: https://github.com/Exusai/CursoFrontEnd/tree/master/03-CSS
 ![image](https://user-images.githubusercontent.com/47704357/158432793-284d7e85-d663-4c7d-8526-863495bf6eda.png)
 
+## Semana 4:
+Práctica de Javascript\
+Código: https://github.com/Exusai/CursoFrontEnd/tree/master/04-JS
+![image](https://user-images.githubusercontent.com/47704357/159204277-b172978b-d53f-4f2b-bb0b-a3e62ce33f9d.png)
 
 
 
