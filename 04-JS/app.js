@@ -136,4 +136,4 @@ for (const pokeListItem of pokeListItems) {
 
 
 // initialize App
-fetchPokeList('https://pokeapi.co/api/v2/pokemon?offset=0&limit=20');
+fetchPokeList('https://pokeapi.co/api/v2/pokemon?offset=0&limit=10');
