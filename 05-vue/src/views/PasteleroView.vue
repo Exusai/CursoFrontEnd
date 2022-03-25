@@ -1,5 +1,4 @@
 <template>
-  <h1>Pedidos</h1>
   <Orders/>
 </template>
 

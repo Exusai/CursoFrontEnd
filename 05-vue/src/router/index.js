@@ -2,6 +2,9 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import PedidoView from '../views/PedidoView.vue'
 import OrderView from '../views/PasteleroView.vue'
+import '@/assets/css/bootstrap-grid.css'
+//import '@/assets/css/bootstrap-utilities.css'
+//import '@/assets/css/bootstrap.css'
 
 const routes = [
   {

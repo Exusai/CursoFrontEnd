@@ -5,8 +5,7 @@
        SpaceBake 
     </router-link>  
     <router-link :to="{ name: 'Pedido'}">Pedido</router-link>   
-    <router-link to="/pastelero">Pastelero</router-link>   
-    <!-- <router-link to="/pastelero">Pastelero</router-link> -->
+    <router-link to="/pastelero">Pastelero</router-link>
   </div>
   <router-view/>
 </template>
@@ -19,8 +18,8 @@
   text-align: center;
   color: #2c3e50;
   /* margin-top: 60px; */
-  margin-left: 10px;
-  margin-right: 10px;
+  /* margin-left: 10px;
+  margin-right: 10px; */
 }
 
 body{
@@ -29,8 +28,11 @@ body{
 }
 
 #nav {
-  padding: 0;
-  align-items: center;
+  /* padding: 0; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  padding-left: 10px;
+  padding-bottom: 15px;
 }
 
 #nav a {
