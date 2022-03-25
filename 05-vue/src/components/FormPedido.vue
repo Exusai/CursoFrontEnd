@@ -36,15 +36,21 @@
       <label>Describenos tu pastel</label>
       <br>
       <textarea rows="4" v-model="desc"></textarea>
+
+      <div class="submit">
+        <button>Siguiente</button>
+    </div>
   </form>
 
-  <p>{{name}}</p>
+  
+
+  <!-- <p>{{name}}</p>
   <p>{{phoneNumber}}</p>
   <p>{{email}}</p>
   <p>{{desc}}</p>
   <p>{{pan}}</p>
   <p>{{relleno}}</p>
-  <p>{{cubierta}}</p>
+  <p>{{cubierta}}</p> -->
 </template>
 
 <script>
@@ -66,7 +72,7 @@
 <style>
     form{
         max-width: 420px;
-        margin: 30px auto;
+        margin: auto;
         background: white;
         text-align: left;
         padding: 40px;
@@ -100,5 +106,16 @@
         border: none;
         border-bottom: 1px solid #ddd;
         color: #555;
+    }
+    button {
+        background: #0b6dff;
+        border: 0;
+        padding: 10px 20px;
+        margin-top: 20px;
+        color: white;
+        border-radius: 20px;
+    }
+    .submit {
+        text-align: center;
     }
 </style>
